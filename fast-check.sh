@@ -1,1 +1,1 @@
-wget --timestamping --wait=1 --random-wait --input-file=tcs-1994-2015-url --directory-prefix=./tcs-1994-2015/ -q --show-progress
+wget --timestamping --wait=1 --random-wait --input-file=smia-1990-2015-url --directory-prefix=./smia-1990-2015/ -q --show-progress
